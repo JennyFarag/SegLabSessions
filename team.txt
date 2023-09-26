@@ -1,7 +1,1 @@
-Bwen
-<<<<<<< HEAD
-Jenny 
-=======
-
-Bwen bwen bwen wben
->>>>>>> f7803f8312306ffff1f042b43ff3ba7c595d09ac
+Nom: Jenny
